@@ -83,18 +83,18 @@ def menu():
 	print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-Wellcome"
 	print
         print "\033[1;91mATTACK ON PAKISTAN NETWORKS"
-	print "\033[1;92m[1]  MOBILINK |LOCAL-AREA|"
-	print "\033[1;92m[2]  TELINOR  |OTP-CONNECT|"
-	print "\033[1;92m[3]  WARID    |101.1.0.55.1|"
-	print "\033[1;92m[4]  UFONE    |VPN CONNECTED|"
-	print "\033[1;92m[5]  ZONG     |ARBAB-ALI-MEMON|"
+	print "\033[1;92m[1]  MOBILINK • <> |LOCAL-AREA|"
+	print "\033[1;92m[2]  TELINOR  • <> |OTP-CONNECT|"
+	print "\033[1;92m[3]  WARID    • <> |101.1.0.55.1|"
+	print "\033[1;92m[4]  UFONE    • <> |VPN CONNECTED|"
+	print "\033[1;92m[5]  ZONG     • <> |ARBAB-ALI-MEMON|"
 	print "\033[1;92m[6]  UPDATE SYSTEM"
 	print "\033[1;92m[0]  EXIT_KALTI MAR"	    
 	print 50*'-'
 	action()
 	
 def action():	
-	bch = raw_input('\n  ENTER HERE ANY NUMBER ')
+	bch = raw_input('\n  ENTER HERE ANY NUMBER••• ')
 	if bch =='':
 		print '[!] Fill in correctly'
 		action()
